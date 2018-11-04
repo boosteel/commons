@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boosteel-dependencies" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boosteel-nativedb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boosteel-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boosteel-parent/boosteel-http" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boosteel-parent/boosteel-nativedb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boosteel-parent/boosteel-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hellofunc-web-dependencies" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hellofunc-web-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hellofunc-web-support" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hellofunc-web-util" charset="UTF-8" />
+  </component>
+</project>

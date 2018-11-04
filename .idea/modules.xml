@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boosteel-dependencies/boosteel-dependencies.iml" filepath="$PROJECT_DIR$/boosteel-dependencies/boosteel-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boosteel-parent/boosteel-http/boosteel-http.iml" filepath="$PROJECT_DIR$/boosteel-parent/boosteel-http/boosteel-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boosteel-parent/boosteel-nativedb/boosteel-nativedb.iml" filepath="$PROJECT_DIR$/boosteel-parent/boosteel-nativedb/boosteel-nativedb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boosteel-parent/boosteel-parent.iml" filepath="$PROJECT_DIR$/boosteel-parent/boosteel-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boosteel-parent/boosteel-util/boosteel-util.iml" filepath="$PROJECT_DIR$/boosteel-parent/boosteel-util/boosteel-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hellofunc-web.iml" filepath="$PROJECT_DIR$/hellofunc-web.iml" />
+    </modules>
+  </component>
+</project>

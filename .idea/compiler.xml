@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="boosteel-http" />
+        <module name="boosteel-nativedb" />
+        <module name="boosteel-util" />
+        <module name="web.support" />
+        <module name="webutils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boosteel-dependencies" target="1.8" />
+      <module name="boosteel-http" target="1.8" />
+      <module name="boosteel-nativedb" target="1.8" />
+      <module name="boosteel-parent" target="1.8" />
+      <module name="boosteel-util" target="1.8" />
+      <module name="boosteeldependencies" target="1.5" />
+      <module name="hellofun-web-dependencies" target="1.8" />
+      <module name="hellofunc-web" target="1.5" />
+      <module name="hellofunc-web-archive" target="1.8" />
+      <module name="hellofunc-web-parent" target="1.8" />
+      <module name="hellofunc-web-support" target="1.8" />
+      <module name="hellofunc-web-util" target="1.8" />
+      <module name="web.support" target="1.8" />
+      <module name="webutils" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
